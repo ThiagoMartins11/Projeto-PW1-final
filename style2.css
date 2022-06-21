@@ -1,0 +1,105 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+body{
+    background-color: #090606;
+}
+.cornav{
+    background-color: #000000;
+}
+.fundo{
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: top;
+    background-image: url(img/imagem\ de\ fundo\ home.png);
+    height: 88vh;
+    margin-bottom: 0;
+}
+.meio{
+    color: rgba(255, 255, 255, 0);
+    position: absolute;
+    margin-left: 18%;
+    height: 515%;
+    width: 65%;
+    background-color: #8A0303;
+}
+.godofwar3{
+    font-size: 40px;
+    position: absolute;
+    color: #B8860B;
+    margin-top: 3%;
+    margin-left: 22%;
+}
+.p1{
+    position: absolute;
+    color: #B8860B;
+    margin-top: 10%;
+    margin-left: 22%;
+}
+.jogabilidade{
+    position: absolute;
+    color: #B8860B;
+    margin-top: 30%;
+    margin-left: 22%;
+}
+.p2{
+    position: absolute;
+    color: #B8860B;
+    margin-top: 38%;
+    margin-left: 22%;
+}
+.armas{
+    position: absolute;
+    color: #B8860B;
+    margin-top: 55%;
+    margin-left: 22%;
+}
+.p3{
+    position: absolute;
+    color: #B8860B;
+    margin-top: 63.5%;
+    margin-left: 22%;
+}
+.magias{
+    position: absolute;
+    color: #B8860B;
+    margin-top: 104.5%;
+    margin-left: 22%;
+}
+.p4{
+    position: absolute;
+    color: #B8860B;
+    margin-top: 113%;
+    margin-left: 22%;
+}
+.plataformasjogar{
+    position: absolute;
+    color: #B8860B;
+    margin-top: 144%;
+    margin-left: 22%;
+}
+.p5{
+    position: absolute;
+    color: #B8860B;
+    margin-top: 152.5%;
+    margin-left: 22%;
+}
+.gameplaygame{
+    position: absolute;
+    color: #B8860B;
+    margin-top: 166%;
+    margin-left: 22%;
+}
+.video{
+    position: absolute;
+    width: 52.5%;
+    height: 70%;
+    color: #fbfbfb;
+    margin-top: 177%;
+    margin-left: 22%;
+}
+.footer1{
+    position: absolute;
+    margin-top: 255%;
+}

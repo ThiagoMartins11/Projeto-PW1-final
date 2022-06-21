@@ -1,0 +1,121 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.cornav{
+    background-color: #000000;
+}
+.fundo{
+    background-size: cover;
+    background-image: url(img/cZNkq18lvtmnBlUmV7CcDSFE\ \(1\).webp);
+    height: 86vh;
+    margin-bottom: 0;
+}
+.meio{
+    color: rgba(255, 255, 255, 0);
+    position: absolute;
+    margin-left: 18%;
+    height: 700%;
+    width: 65%;
+    background-color: #2E2E2E;
+}
+.destiny2{
+    font-size: 40px;
+    position: absolute;
+    color: #fbfbfb;
+    margin-top: 3%;
+    margin-left: 22%;
+}
+.p1{
+    position: absolute;
+    color: #fbfbfb;
+    margin-top: 10%;
+    margin-left: 22%;
+}
+.jogabilidade{
+    position: absolute;
+    color: #fbfbfb;
+    margin-top: 35%;
+    margin-left: 22%;
+}
+.p2{
+    position: absolute;
+    color: #fbfbfb;
+    margin-top: 43%;
+    margin-left: 22%;
+}
+.imgclasse{
+    position: absolute;
+    width: 53%;
+    margin-top: 56%;
+    margin-left: 22%;
+}
+.subclasses{
+    position: absolute;
+    color: #fbfbfb;
+    margin-top: 84%;
+    margin-left: 22%;
+}
+.p3{
+    position: absolute;
+    color: #fbfbfb;
+    margin-top: 92%;
+    margin-left: 22%;
+}
+.imgsubclasse{
+    position: absolute;
+    color: #fbfbfb;
+    width: 53%;
+    margin-top: 141%;
+    margin-left: 22%;
+}
+.armasarmaduras{
+    position: absolute;
+    color: #fbfbfb;
+    margin-top: 168%;
+    margin-left: 22%;
+}
+.p4{
+    position: absolute;
+    color: #fbfbfb;
+    margin-top: 176%;
+    margin-left: 22%;
+}
+.imgraridades{
+    position: absolute;
+    color: #fbfbfb;
+    width: 53%;
+    margin-top: 202%;
+    margin-left: 22%;
+}
+.plataformasjogar{
+    position: absolute;
+    color: #fbfbfb;
+    margin-top: 229%;
+    margin-left: 22%;
+}
+.p5{
+    position: absolute;
+    color: #fbfbfb;
+    margin-top: 237%;
+    margin-left: 22%;
+}
+.gameplaygame{
+    position: absolute;
+    color: #fbfbfb;
+    margin-top: 256%;
+    margin-left: 22%;
+}
+.video{
+    position: absolute;
+    width: 53%;
+    height: 65%;
+    color: #fbfbfb;
+    margin-top: 265%;
+    margin-left: 22%;
+}
+.footer1{
+    position: absolute;
+    margin-top: 340%;
+}
+

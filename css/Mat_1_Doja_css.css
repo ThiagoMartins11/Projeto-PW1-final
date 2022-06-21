@@ -1,0 +1,29 @@
+.pagina1{
+    background-color: #030B51;
+    color: white;
+}
+.pagina2{
+    background-color: #5A7E3E;
+    color: white;
+}
+.img1{
+    position: relative;
+    width: 700px;
+    height: 400px;
+    padding: 1%;
+    margin-bottom: 2%;
+    margin-top: 2%;
+    margin-left: 21.5%;
+
+}
+h3{
+    font: white;
+    text-align: center;
+}
+.img2{
+    margin-left: 15%;
+}
+.justificado{
+    text-align: justify;
+
+}
